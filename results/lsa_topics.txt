@@ -1,0 +1,10 @@
+Topic 1: ['payment', 'usc', 'reporting', 'consumer', 'information', 'xxxxxxxx', 'report', 'credit', 'account', 'xxxx']
+
+Topic 2: ['supply', 'tx', 'car', 'silence', 'estoppel', 'fl', 'doctrine', 'xxxxxxxxxxxx', 'xxxxxxxx', 'xxxx']
+
+Topic 3: ['xxxx', 'furnish', 'privacy', 'state', 'agency', 'right', 'reporting', 'consumer', 'section', 'usc']
+
+Topic 4: ['tell', 'bank', 'loan', 'late', 'section', 'state', 'pay', 'usc', 'call', 'payment']
+
+Topic 5: ['creditor', 'history', 'update', 'ensure', 'banking', 'code', 'report', 'error', 'late', 'payment']
+

@@ -1,0 +1,10 @@
+Topic 1: ['open', 'number', 'report', 'inquiry', 'credit', 'balance', 'date', 'account', 'xxxxxxxx', 'xxxx']
+
+Topic 2: ['tell', 'would', 'bank', 'payment', 'pay', 'xxxxxxxx', 'loan', 'call', 'account', 'xxxx']
+
+Topic 3: ['right', 'agency', 'section', 'credit', 'usc', 'account', 'report', 'information', 'reporting', 'consumer']
+
+Topic 4: ['provide', 'error', 'financial', 'request', 'dispute', 'report', 'account', 'credit', 'late', 'payment']
+
+Topic 5: ['collection', 'dispute', 'file', 'remove', 'request', 'information', 'debt', 'account', 'credit', 'report']
+
