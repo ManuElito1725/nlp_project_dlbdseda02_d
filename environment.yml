@@ -1,0 +1,6 @@
+name: nlp_project_dlbdseda02_d
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /Users/manu/anaconda3/envs/nlp_project_dlbdseda02_d
