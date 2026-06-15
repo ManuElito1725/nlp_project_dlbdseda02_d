@@ -30,7 +30,7 @@ nlp_project_dlbdseda02_d/
 ├── processed_data/
 ├── results/
 ├── requirements.txt
-├── environment.md
+├── environment.yml
 └── README.md
 ```
 
