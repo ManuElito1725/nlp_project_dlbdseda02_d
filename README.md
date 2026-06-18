@@ -104,6 +104,12 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
+### Alternative wenn Anaconda vorhanden ist
+
+* JupyterLap starten
+
+* mit Notebook 01 starten
+
 ---
 
 ## Ausführung
@@ -117,6 +123,8 @@ Die Notebooks bauen aufeinander auf und müssen in der folgenden Reihenfolge aus
 5. `05_visualization.ipynb`
 
 Während der Verarbeitung werden Zwischenergebnisse im Ordner `processed_data/` gespeichert und von den nachfolgenden Notebooks verwendet.
+
+Wenn eigene Erfolge erzielt werden wollen, sollte für eine Nachvollziehbarkeit der Ordner `processed_data/` und `results/` vorher geleert werden. Anschließend die Notebooks 01-05 nacheinadner ausführen.
 
 ---
 
